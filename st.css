@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(19, 36, 36);
+    color:white;
+}
+#one{
+   height: 60px;
+   background-color: #0f1111;
+ } 
+ a{
+    margin-right: 200px;
+    text-decoration: none;
+ }
+ #two{
+    color: #f08804;
+    font-size: 25px;
+ }
+button{
+    background-color: #f08804;
+}
